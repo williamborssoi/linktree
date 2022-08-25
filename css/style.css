@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+body {
+    background: #add8e6;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 300px;
+    text-align: center;
+    margin: 60px auto;
+}
+
+img {
+    width: 100%;
+}
+
+img.avatar {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+
+    padding: 3.7px;
+    border: #204ac8 solid 4px;
+}
+
